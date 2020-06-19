@@ -1,4 +1,3 @@
-# Welcome to SlapFrog Labs
 ![Logo](/images/frog 240.jpg)
 
 ## Current Projects
