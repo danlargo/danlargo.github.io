@@ -1,7 +1,5 @@
 # Welcome to SlapFrog Labs
-<p align="center">
-  <img src="https://danlargo.github.io/images/frog%20240.jpg" width=200></img>  
-</p>
+![Logo](/images/frog 240.jpg)
 
 ## Current Projects
 
