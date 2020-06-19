@@ -1,6 +1,8 @@
-Welcome to SlapFrog Labs
+# Welcome to SlapFrog Labs
+<p align="center">
+  <img src="./images/frog 240.jpg" width=200/>  
+</p>
 
-# Welcome
 ## Current Projects
 
 ### BLEach
