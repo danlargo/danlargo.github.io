@@ -2,6 +2,13 @@
 
 ## Current Projects
 
+### PiZero Security Device
+[Repo](https://github.com/danlargo/piSecure)
+
+Pi Zero motion detection system, with python capture and display code, PiZero case, battery and charge circuit.
+
+A "simple" motion capture system for the PiZero platform.
+
 ### BLEach
 [Repo](https://github.com/danlargo/BLEach)
 
@@ -16,12 +23,3 @@ Will try to keep moving this forward, I apologize in advance for people that lan
 Will be targeting a framework that supports CoreBluetooth on the MAC, with an entirely python based code base (will attempt to build a code base that does not require native code). Will decide on interface support for Raspian later, along with Linux and then Windows support.
 
 Stay tuned, will be a bumpy ride.
-
-
-
-### PiZero Security Device
-[Repo](https://github.com/danlargo/piSecure)
-
-Pi Zero motion detection system, with python capture and display code, PiZero case, battery and charge circuit.
-
-A "simple" motion capture system for the PiZero platform.
